@@ -10,5 +10,6 @@ class CountEven{
             
         }
         System.out.println(count);
+        
     }
 }
